@@ -1,0 +1,44 @@
+{
+  "Could not open %1": {
+    "Could not open %1": "%1 açılamadı"
+  },
+  "Its desktop entry was not found.": {
+    "Its desktop entry was not found.": "Uygulamanın masaüstü kaydı bulunamadı."
+  },
+  "Click to add apps": {
+    "Click to add apps": "Uygulama eklemek için tıkla"
+  },
+  "Shortcuts": {
+    "Shortcuts": "Kısayollar"
+  },
+  "Apps shown on the desktop. Use the arrows to change their order.": {
+    "Apps shown on the desktop. Use the arrows to change their order.": "Masaüstünde gösterilecek uygulamalar. Sıralamayı oklarla değiştirebilirsin."
+  },
+  "Move up": {
+    "Move up": "Yukarı taşı"
+  },
+  "Move down": {
+    "Move down": "Aşağı taşı"
+  },
+  "Remove": {
+    "Remove": "Kaldır"
+  },
+  "No shortcuts yet": {
+    "No shortcuts yet": "Henüz kısayol yok"
+  },
+  "Add app": {
+    "Add app": "Uygulama ekle"
+  },
+  "Icon size": {
+    "Icon size": "Simge boyutu"
+  },
+  "Background opacity": {
+    "Background opacity": "Arka plan saydamlığı"
+  },
+  "Set to 0 to show only the icons": {
+    "Set to 0 to show only the icons": "0 yapılırsa yalnız simgeler görünür"
+  },
+  "Show app names": {
+    "Show app names": "Uygulama adlarını göster"
+  }
+}

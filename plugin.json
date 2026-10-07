@@ -1,0 +1,20 @@
+{
+  "id": "quickShortcuts",
+  "name": "Quick Shortcuts",
+  "description": "Desktop app shortcuts: the widget shows only the icons, and apps are added, removed and reordered from Settings > Desktop Widgets",
+  "version": "1.1.0",
+  "author": "KadirJeager",
+  "type": "desktop",
+  "capabilities": [
+    "desktop-widget"
+  ],
+  "component": "./QuickShortcuts.qml",
+  "settings": "./QuickShortcutsSettings.qml",
+  "icon": "apps",
+  "requires_dms": ">=1.6.0",
+  "permissions": [
+    "process",
+    "settings_read",
+    "settings_write"
+  ]
+}
