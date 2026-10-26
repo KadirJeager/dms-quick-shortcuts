@@ -1,5 +1,7 @@
 # Quick Shortcuts
 
+> **Archived:** Quick Shortcuts is now part of [Mini Desktop](https://github.com/KadirJeager/dms-mini-desktop) 2.0, which shows the same one-click app shortcuts (above a folder's items, or on their own) and manages them in the widget settings. Please use Mini Desktop instead.
+
 A desktop widget for [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) that shows a clean grid of app shortcuts. The widget itself has no buttons or headers, only your apps.
 
 ![Quick Shortcuts on the desktop](assets/screenshot.png)
